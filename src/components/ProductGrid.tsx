@@ -17,28 +17,28 @@ const products: Product[] = [
   {
     id: 1,
     name: "Essential Cotton Tee",
-    price: "$68",
+    price: "₹899",
     image: tshirtImage,
     category: "Basics"
   },
   {
     id: 2,
     name: "Classic Trench Coat",
-    price: "$298",
+    price: "₹2,499",
     image: coatImage,
     category: "Outerwear"
   },
   {
     id: 3,
     name: "Minimalist Midi Dress",
-    price: "$158",
+    price: "₹1,599",
     image: dressImage,
     category: "Dresses"
   },
   {
     id: 4,
     name: "Sage Linen Pants",
-    price: "$128",
+    price: "₹1,299",
     image: pantsImage,
     category: "Bottoms"
   }
